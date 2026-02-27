@@ -1,1 +1,7 @@
+DeepLearning/*.pth
+DeepLearning/*.pt
+DeepLearning/data/cifar-100-python.tar.gz
+DeepLearning/data/cifar-100-python/
+DeepLearning/data/**/*.tar.gz
+*~
 /project/
